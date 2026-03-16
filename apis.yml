@@ -1,0 +1,44 @@
+aid: paypro-global
+name: PayPro Global
+description: >-
+  PayPro Global is an e-commerce platform for software and SaaS companies
+  providing subscription billing, payments, and global tax compliance.
+  They offer APIs for managing subscriptions, payments, and customer data.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - E-Commerce
+  - Subscription Billing
+  - Payments
+  - SaaS
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/paypro-global/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: paypro-global:paypro-global
+    name: PayPro Global API
+    description: >-
+      PayPro Global API for managing subscriptions, payments, and customer
+      data for software and SaaS companies.
+    humanURL: https://developer.payproglobal.com/
+    tags:
+      - Subscriptions
+      - Payments
+      - SaaS
+    properties:
+      - type: Documentation
+        url: https://developer.payproglobal.com/
+common:
+  - type: Portal
+    url: https://developer.payproglobal.com/
+  - type: Website
+    url: https://payproglobal.com/
+  - type: Terms of Service
+    url: https://payproglobal.com/terms-conditions/
+  - type: Privacy Policy
+    url: https://payproglobal.com/privacy-policy/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
