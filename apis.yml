@@ -8,9 +8,9 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - E-Commerce
-  - Subscription Billing
   - Payments
   - SaaS
+  - Subscription Billing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/paypro-global/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -24,9 +24,9 @@ apis:
       data for software and SaaS companies.
     humanURL: https://developer.payproglobal.com/
     tags:
-      - Subscriptions
       - Payments
       - SaaS
+      - Subscriptions
     properties:
       - type: Documentation
         url: https://developer.payproglobal.com/
