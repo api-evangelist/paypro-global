@@ -39,7 +39,7 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.payproglobal.com/
-      - type: API Reference
+      - type: APIReference
         url: https://developer.payproglobal.com/docs/api-reference
       - type: Webhooks
         url: https://developer.payproglobal.com/docs/webhooks
@@ -52,9 +52,9 @@ common:
     url: https://developer.payproglobal.com/
   - type: Pricing
     url: https://payproglobal.com/pricing/
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://payproglobal.com/terms-conditions/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://payproglobal.com/privacy-policy/
 maintainers:
   - FN: Kin Lane
