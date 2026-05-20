@@ -44,6 +44,8 @@ apis:
       - type: Webhooks
         url: https://developer.payproglobal.com/docs/webhooks
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/paypro-global-inc-
   - type: Website
     url: https://payproglobal.com/
   - type: Developer Portal
