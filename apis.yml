@@ -58,6 +58,8 @@ common:
     url: https://payproglobal.com/terms-conditions/
   - type: PrivacyPolicy
     url: https://payproglobal.com/privacy-policy/
+  - type: LLMsTxt
+    url: https://payproglobal.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
