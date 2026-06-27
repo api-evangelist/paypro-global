@@ -48,7 +48,7 @@ common:
     url: https://www.linkedin.com/company/paypro-global-inc-
   - type: Website
     url: https://payproglobal.com/
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://developer.payproglobal.com/
   - type: Documentation
     url: https://developer.payproglobal.com/
@@ -58,7 +58,7 @@ common:
     url: https://payproglobal.com/terms-conditions/
   - type: PrivacyPolicy
     url: https://payproglobal.com/privacy-policy/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://payproglobal.com/llms.txt
 maintainers:
   - FN: Kin Lane
