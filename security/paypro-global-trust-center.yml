@@ -1,0 +1,14 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://payproglobal.com/compliance/
+url: https://payproglobal.com/compliance/
+certifications:
+- PCI DSS
+- GDPR
+evidence:
+- source: https://payproglobal.com/compliance/
+  keywords:
+  - pci dss
+  - pci-dss
+  - gdpr

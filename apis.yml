@@ -44,6 +44,10 @@ apis:
       - type: Webhooks
         url: https://developer.payproglobal.com/docs/webhooks
 common:
+  - type: TrustCenter
+    url: security/paypro-global-trust-center.yml
+  - type: DomainSecurity
+    url: security/paypro-global-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/paypro-global-inc-
   - type: Website
