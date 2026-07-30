@@ -7,9 +7,21 @@ description: >-
   fraud prevention, and revenue recovery, and exposes APIs and webhooks for
   managing subscriptions, payments, and customer data.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consuming
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/paypro-global.png
 tags:
   - E-Commerce
   - Merchant of Record
