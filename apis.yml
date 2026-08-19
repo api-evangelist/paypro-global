@@ -33,7 +33,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/paypro-global/refs/heads/main/apis.yml
 created: '2026-03-16'
 modified: '2026-04-28'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis:
   - aid: paypro-global:paypro-global
     name: PayPro Global API
