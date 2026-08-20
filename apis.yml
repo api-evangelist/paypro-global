@@ -26,6 +26,13 @@ tags:
   - E-Commerce
   - Merchant of Record
   - Payments
+  - Software-as-a-Service
+  - Subscription Billing
+  - Tax Compliance
+tags_raw:
+  - E-Commerce
+  - Merchant of Record
+  - Payments
   - SaaS
   - Subscription Billing
   - Tax Compliance
@@ -43,6 +50,12 @@ apis:
       ecommerce flows.
     humanURL: https://developer.payproglobal.com/
     tags:
+      - Customers
+      - Payments
+      - Product
+      - Subscription
+      - Webhook
+    tags_raw:
       - Customers
       - Payments
       - Products
