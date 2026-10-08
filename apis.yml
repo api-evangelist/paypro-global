@@ -80,6 +80,12 @@ apis:
       - type: Webhooks
         url: https://developer.payproglobal.com/docs/webhooks
 common:
+  - type: Plans
+    url: plans/paypro-global-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/paypro-global-rate-limits.yml
+  - type: FinOps
+    url: finops/paypro-global-finops.yml
   - type: TrustCenter
     url: security/paypro-global-trust-center.yml
   - type: DomainSecurity
